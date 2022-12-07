@@ -10,3 +10,7 @@ https://uvmx-my.sharepoint.com/:w:/g/personal/zs17012971_estudiantes_uv_mx/ES-l7
 Diagramas de Robustez, Contexto, Modelo de dominio:
 
 https://drive.google.com/file/d/10ARWEBFdSLy8GN6in1KZYT_q_QRQqCTg/view
+
+Prototipado de alta fidelidad:
+
+https://www.figma.com/file/mRBkJGQX6Y7cYs3EnQckjh/Pantallas-Soporte?node-id=666%3A262&t=gmlHpLtEKRAwEVJa-1
